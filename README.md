@@ -1,10 +1,6 @@
 # CyberPortfolio
 # PACKET ANALYSIS USING WIRESHARK
 
-**Environment:** Windows 11 Pro  
-**Tools Used:** Wireshark, Google Chrome  
-
-
 ---
 
 ##  LAB OBJECTIVES
